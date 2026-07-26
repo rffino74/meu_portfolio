@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Rafael de Freitas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rffino74)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rffino@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rffino@gmail.com)
 
 ---
 
@@ -46,7 +46,7 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 ### 🤖 Inteligência Artificial
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
-![DeepSEEK](https://chat.deepseek.com/)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6FA5?style=flat-square&logo=deepseek&logoColor=white)
 
 ### 🔧 Ferramentas
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6600?style=flat-square&logo=putty&logoColor=white)
@@ -112,8 +112,8 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
-- 📧 [Email](rffino@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
+- 📧 [Email](mailto:rffino@gmail.com)
 - 🐱 [GitHub](https://github.com/rffino74)
 
 ---
