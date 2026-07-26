@@ -58,35 +58,25 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 ### 🏢 Implantação de Infraestrutura - 28 Lojas
 > Planejamento e implantação completa da infraestrutura física e lógica para 28 unidades, incluindo cabeamento estruturado, fibra óptica, switches PoE, CFTV e configuração de redes corporativas.
 
-🔗 [Ver projeto](#)
-
 ---
 
 ### 🔐 Active Directory Corporativo
 > Implantação completa do ambiente Microsoft Active Directory com gerenciamento de usuários e grupos, configuração de Políticas de Grupo (GPO) e administração de DNS e DHCP.
-
-🔗 [Ver projeto](#)
 
 ---
 
 ### 📊 Migração de Monitoramento (Zabbix → Uptime Kuma)
 > Migração do ambiente de monitoramento do Zabbix para Uptime Kuma, com configuração de servidores e serviços críticos, implantação de alertas automáticos e redução da complexidade operacional.
 
-🔗 [Ver projeto](#)
-
 ---
 
 ### 📞 Telefonia IP - 3CX
 > Administração completa do ambiente 3CX com criação e gerenciamento de ramais, configuração de telefones IP, administração de usuários e bloqueio de chamadas indevidas.
 
-🔗 [Ver projeto](#)
-
 ---
 
 ### 🕒 Relógios de Ponto Control iD
 > Planejamento, implantação e administração dos relógios de ponto Control iD com monitoramento via plataforma RH ID, diagnóstico e resolução de falhas de comunicação.
-
-🔗 [Ver projeto](#)
 
 ---
 
@@ -100,13 +90,6 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 ✅ Gestão de servidores **Windows** e **Linux**  
 ✅ Padronização da infraestrutura física e lógica das lojas  
 ✅ Utilização de **Inteligência Artificial** para automação de tarefas e melhoria dos processos de suporte  
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rffino74&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rffino74&layout=compact&theme=dark)
 
 ---
 
