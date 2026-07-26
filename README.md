@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Rafael de Freitas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seudperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rffino74)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rffino@gmail.com)
 
 ---
 
@@ -42,12 +42,11 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 
 ### 📞 Telefonia e Servidores
 ![3CX](https://img.shields.io/badge/3CX-00B4D8?style=flat-square&logo=3cx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### 🤖 Inteligência Artificial
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
+![DeepSEEK](https://chat.deepseek.com/)
 
 ### 🔧 Ferramentas
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6600?style=flat-square&logo=putty&logoColor=white)
@@ -113,8 +112,8 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/seudperfil)
-- 📧 [Email](mailto:seuemail@email.com)
+- 💼 [LinkedIn](www.linkedin.com/in/rafael-de-freitas-batista-ba539330a)
+- 📧 [Email](rffino@gmail.com)
 - 🐱 [GitHub](https://github.com/rffino74)
 
 ---
@@ -131,10 +130,6 @@ Atuo em todas as etapas de projetos de infraestrutura, desde a implantação fí
 - 🔄 Foco em melhoria contínua
 - 🏢 Visão de infraestrutura corporativa
 - ⏰ Comprometimento com disponibilidade dos serviços
-
----
-
-⭐ **Veja meus outros projetos** clicando [aqui](https://github.com/rffino74?tab=repositories)
 
 ---
 
